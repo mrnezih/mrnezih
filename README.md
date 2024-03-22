@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnezih&show_icons=true&locale=en" alt="mrnezih" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnezih&" alt="mrnezih" /></p>
+
+
+![snake gif](https://github.com/mrnezih/mrnezih/blob/output/github-contribution-grid-snake.gif)
