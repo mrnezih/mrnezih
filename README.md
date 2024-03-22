@@ -1,4 +1,4 @@
-[![MasterHead](https://nezihdogan.com/assets/linkedinkapak.png)
+![MasterHead](https://nezihdogan.com/assets/linkedinkapak.png)
 <h1 align="center">Hi 👋, I'm İ. Nezih Doğan</h1>
 <h3 align="center">Unity Game Developer | Product Manager</h3>
 
