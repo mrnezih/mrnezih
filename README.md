@@ -1,8 +1,8 @@
-![MasterHead](https://nezihdogan.com/assets/linkedinkapak.png)
+![MasterHead](https://nezihdogan.com/Uploads/AboutUs/linkedinkapak.png.png)
 <h1 align="center">Hi 👋, I'm İ. Nezih Doğan</h1>
 <h3 align="center">Unity Game Developer | Product Manager</h3>
 
-- 👨‍💻 All of my projects are available at [www.nezihdogan.com](https://nezihdogan.com/portfolyo/index.html)
+- 👨‍💻 All of my projects are available at [www.nezihdogan.com](https://nezihdogan.com/Home/AboutUs/)
 
 - 📫 How to reach me **mr.nezih@gmail.com**
 
